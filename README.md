@@ -1,0 +1,4 @@
+blog
+====
+
+A Octopress blog
